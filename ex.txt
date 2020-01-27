@@ -1,1 +1,6 @@
 This is my 1st doc
+step1: git status
+s2: commit the file
+	git commit -m "commit text" file name
+s3: now push the file to github
+	git -u psuh origin master 
